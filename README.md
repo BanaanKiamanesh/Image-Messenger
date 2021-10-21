@@ -1,4 +1,4 @@
-# Image Messager
+# Image Messenger
 
 If you have a message to someone and you dont want anyone to see that, what you can do is just to hide it in any image and then send it!
 This is a real romantic tool to be made!(Needs Engineering Motivation!)
