@@ -11,7 +11,7 @@ Can you get the message? Follow along to see how there is a 'the quick brown fox
 ## How it Works:
 ### Encryption has 2 phases:
 - String Encryption Phase:
->In OldSchool text saving and processings we have ASCII Code! but  its UNICODE! lets just stick into the Ascii thing...
+>In OldSchool text saving and processings we have ASCII Code! but  its UNICODE lately! lets just stick into the Ascii thing...
 Every character is represented as a 7 bit number in std IEEE ASCII code... but there is a extended version of that (Ext ASCII) which are 8bitted vals.
 
 > So each char is saved as a 8 bit. but lots of'em are not used in writing which we call'em ControlCharacters! So we only care for {**numbers, alphabet, punctuation, some special characters**}
